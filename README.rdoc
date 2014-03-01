@@ -1,0 +1,25 @@
+== README
+
+Welcome to BestyOfTheDay!
+
+Website Features:
+
+* Admin posts a category besty
+
+* Posotive-Negative tweet reactions
+
+* Configuration
+
+* Database creation
+
+Website Dependencies and Stack:
+
+* Client Side: Ember
+
+* Api: Rails 4
+
+* Database: Postgresql
+
+* Deployment: Heroku
+
+Fork and Add Your name below if you would like to contribute:
