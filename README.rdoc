@@ -8,10 +8,6 @@ Website Features:
 
 * Posotive-Negative tweet reactions
 
-* Configuration
-
-* Database creation
-
 Website Dependencies and Stack:
 
 * Client Side: Ember
